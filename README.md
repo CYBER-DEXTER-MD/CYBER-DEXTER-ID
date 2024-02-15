@@ -17,7 +17,7 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/CYBER-DEXTER-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/CYBER-DEXTER-MD/followers"><img title="Followers" src="https://img.shields.io/github/followers/CYBER-DEXTER-MD?color=red&style=flat-square"></a>
 <a href="https://github.com/CYBER-DEXTER-MD/CYBER-DEXTER-ID/stargazers/"><img title="Stars" src="https://img.shields.io/https://github.com/CYBER-DEXTER-MD/CYBER-DEXTER-ID?color=blue&style=flat-square"></a>
 <a href="https://github.com/CYBER-DEXTER-MD/CYBER-DEXTER-ID/network/members"><img title="Forks" src="https://img.shields.io/https://github.com/CYBER-DEXTER-MD/CYBER-DEXTER-ID?color=red&style=flat-square"></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD8/watchers"><img title="Watching" src="https://img.shields.io/https://github.com/CYBER-DEXTER-MD/CYBER-DEXTER-ID?label=Watchers&color=blue&style=flat-square"></a>
