@@ -11,7 +11,7 @@ let {
 } = require('file-type')	
 let fetch = require('node-fetch')
 
-async function XeonIgImg(match) {
+async function CYBERIgImg(match) {
 const result = []
 				const form = {
 					url: match,
@@ -29,4 +29,4 @@ const result = []
             return result
 }
 
-module.exports.XeonIgImg = XeonIgImg
+module.exports.CYBERIgImg = CYBERIgImg
