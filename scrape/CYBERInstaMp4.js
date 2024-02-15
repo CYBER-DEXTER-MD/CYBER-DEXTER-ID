@@ -38,4 +38,4 @@ async function CYBERInstaMp4() {
     return JSON.parse(context.scriptResult.split("window.parent.sf.videoResult.show(")?.[1].split(");")?.[0])
 }
 
-module.exports.XeonInstaMp4 = CYBERInstaMp4
+module.exports.CYBERInstaMp4 = CYBERInstaMp4
