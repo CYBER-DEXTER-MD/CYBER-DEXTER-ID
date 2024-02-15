@@ -1,5 +1,5 @@
 {
-  "name": "Cheems-Bot-MD",
+  "name": "CYBER-DEXTER-ID",
   "version": "8.0.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "main": "index.js",
@@ -93,10 +93,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DGXeon/CheemsBot-MD8.git"
+    "url": "git+https://github.com/CYBER-DEXTER-MD/CYBER-DEXTER-ID.git"
   },
   "bugs": {
-    "url": "https://github.com/DGXeon/CheemsBot-MD8/issues"
+    "url": "https://github.com/CYBER-DEXTER-MD/CYBER-DEXTER-IDissues"
   },
-  "homepage": "https://github.com/DGXeon/CheemsBot-MD8/#readme"
+  "homepage": "https://github.com/CYBER-DEXTER-MD/CYBER-DEXTER-ID/#readme"
 }
