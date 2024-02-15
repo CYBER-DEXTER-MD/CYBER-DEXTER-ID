@@ -1,7 +1,7 @@
 const axios = require("axios")
 const vm = require('node:vm')
 
-async function XeonInstaMp4() {
+async function CYBERInstaMp4() {
     let body = new URLSearchParams({
         "sf_url": encodeURI(arguments[0]),
         "sf_submit": "",
@@ -38,4 +38,4 @@ async function XeonInstaMp4() {
     return JSON.parse(context.scriptResult.split("window.parent.sf.videoResult.show(")?.[1].split(");")?.[0])
 }
 
-module.exports.XeonInstaMp4 = XeonInstaMp4
+module.exports.XeonInstaMp4 = CYBERInstaMp4
