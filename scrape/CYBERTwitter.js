@@ -1,7 +1,7 @@
 const axios = require('axios')
 const vm = require('node:vm')
 
-async function XeonTwitter() {
+async function CYBERTwitter() {
     let body = new URLSearchParams({
         "sf_url": encodeURI(arguments[0]),
         "sf_submit": "",
