@@ -38,4 +38,4 @@ async function CYBERTwitter() {
     return JSON.parse(context.scriptResult.split("window.parent.sf.videoResult.show(")?.[1].split(");")?.[0])
 }
 
-module.exports.XeonTwitter = CYBERTwitter
+module.exports.CYBERTwitter = CYBERTwitter
